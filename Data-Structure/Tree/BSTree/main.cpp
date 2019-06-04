@@ -61,7 +61,7 @@ int main(int argc, char* argv[])
 
 	cout << "\n最小值: " << tree->minimum();
 	cout << "\n最大值: " << tree->maximum();
-	cout << "\nheight = " << tree->height();
+	cout << "\n树高度 = " << tree->height();
 	cout << "\n结点数= " << tree->getCount();
 	cout << endl;
 
